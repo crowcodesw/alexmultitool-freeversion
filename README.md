@@ -36,6 +36,7 @@ For example:
 
 ```bash
 python alexmultitool.py
+```
 
 ## Contributing
 
